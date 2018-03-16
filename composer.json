@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "mattersight/phppact": "^3.0",
+        "phpunit/phpunit": "^6.5"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
